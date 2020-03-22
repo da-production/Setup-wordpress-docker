@@ -5,6 +5,8 @@ With this, you can create and launch a custom WordPress website with less inscru
 
 This file will setup Wordpress, MySQL &amp; PHPMyAdmin with a single command. Add the code below to a file called "docker-compose.yaml" and run the command
 
+Directly support for this: https://www.patreon.com/user/creators?u=32269290
+
 ## Installation
 
 Download and install the Docker Community Edition for Mac/windows/linux like you would any other application.
